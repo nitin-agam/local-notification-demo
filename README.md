@@ -12,6 +12,7 @@ This demo includes:
 
 - Notification with Custom UI. Yes, you can add your custom UI also in notification preview using "UNNotificationContentExtension".
 
+<img src="https://github.com/nitin-agam/local-notification-demo/blob/master/notification_screenshot.png">
 
 Please raise an issue if you found anything.
 
